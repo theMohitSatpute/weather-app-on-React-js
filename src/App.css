@@ -1,0 +1,25 @@
+.wetherBg {
+  background: url("https://images.pond5.com/india-map-drive-shadow-satellite-148382717_prevstill.jpeg");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.weatherResultBox {
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.weatherIcon {
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.weatherCity {
+  font-size: 35px;
+}
+.weatherTemp {
+  font-size: 55px;
+  font-weight: 700;
+}
